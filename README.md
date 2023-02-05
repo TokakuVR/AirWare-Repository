@@ -16,3 +16,6 @@ You cannot download other games because there would be no point in making this p
 
 Buy the full version here
 
+https://airware.mysellix.io
+
+Thanks for choosing Airware
