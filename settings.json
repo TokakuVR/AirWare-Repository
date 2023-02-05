@@ -1,0 +1,18 @@
+{
+  "ConfigVersion": 1,
+  "CheckUpdatesAutomatically": true,
+  "PreferredConnectionType": "Wireless",
+  "DownloadsLocation": "C:\\Users\\anthony\\Downloads\\win-x64\\win-x64\\downloads",
+  "BackupsLocation": "C:\\Users\\anthony\\Downloads\\win-x64\\win-x64\\backups",
+  "DownloaderBandwidthLimit": "",
+  "DownloadsPruningPolicy": 0,
+  "EnableDebugConsole": true,
+  "LastWirelessAdbHost": "192.168.1.33",
+  "PopularityRange": "30 days",
+  "InstallationId": "8a3d2cf6-4177-4981-99cf-63e03df6a01c",
+  "DonatedPackages": [],
+  "IgnoredDonationPackages": [],
+  "EnableRemoteLogging": false,
+  "EnableAutoDonation": false,
+  "ForceEnglish": false
+}
